@@ -1,4 +1,4 @@
-# tonparcours.fr • Aide pour l'orientation sur parcoursup
+# 🎓 tonparcours.fr • Aide pour l'orientation sur parcoursup
 
 TonParcours.fr est un outil interactif conçu pour aider les lycéens à explorer les formations post-bac. À travers un questionnaire simple, l'utilisateur reçoit une sélection de formations Parcoursup compatibles avec son profil, ses centres d'intérêt et ses résultats scolaires.
 
@@ -34,26 +34,8 @@ TonParcours.fr est un outil interactif conçu pour aider les lycéens à explore
 
 ---
 
-## 🚀 Installation / Utilisation locale
-
-```bash
-# Cloner le dépôt
-git clone https://github.com/youssefbechara/parcoursup-guidance.git
-
-# Se rendre dans le dossier
-cd parcoursup-guidance
-
-# Ouvrir directement index.html dans votre navigateur
-# ou lancer un serveur local (ex: Live Server)
-```
-
-Aucune dépendance à installer. Aucune clé API à configurer.
-
----
-
 ## 📌 À venir (idées d'évolution)
 
-- Filtrer par région / académie
 - Ajouter des statistiques sur les débouchés
 - Interface plus ludique (cartes, sliders...)
 
